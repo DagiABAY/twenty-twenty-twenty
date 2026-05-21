@@ -25,10 +25,6 @@ Once activated, the extension runs in the background and triggers a break screen
 
 `20 minutes (default)`
 
-During testing, this may be set to:
-
-`20 seconds`
-
 ---
 
 ### 👀 Break Screen
@@ -67,7 +63,7 @@ Planned features:
 ## 📌 Notes
 
 - The extension runs automatically when VS Code starts
-- Break intervals are currently fixed (20 seconds for testing)
+- Break intervals are currently fixed
 - No data is stored or tracked externally
 - Designed to be lightweight and distraction-free
 
@@ -78,3 +74,4 @@ Planned features:
 ### Dagim Awulachew
 
 **Built with ❤️ using Node.js and the VS Code Extension API**
+![20-20-20 Icon](media/image.png)
