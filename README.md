@@ -75,6 +75,6 @@ Planned features:
 
 **Built with ❤️ using Node.js and the VS Code Extension API**
 
-## 🧑‍💻 Screenshot
+## 📸 Screenshot
 
 ![20-20-20 Icon](media/image.png)
